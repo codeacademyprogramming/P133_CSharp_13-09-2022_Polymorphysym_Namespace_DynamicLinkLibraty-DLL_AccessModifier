@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\P133Library\P133Library.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="P133ExternalLibrary">
+      <HintPath>..\..\P133ExternalLibrary\P133ExternalLibrary\bin\Debug\netcoreapp3.1\P133ExternalLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

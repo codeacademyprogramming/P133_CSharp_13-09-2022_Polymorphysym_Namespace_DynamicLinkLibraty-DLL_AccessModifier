@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XC9GGbTaraqCbkprZlPNti2CgCxKS3hl+OSgHzciQbdRgucmzT8FCKMxYCK2RK7MaKLW1YrPUNkfrUKmd3PT6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hamid.mammadov\\Desktop\\P133\\HomeWork\\P13313092022\\Polymorphysym\\Polymorphysym.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hamid.mammadov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
